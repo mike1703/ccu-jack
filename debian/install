@@ -1,3 +1,4 @@
 target/ccu-jack /usr/bin/
 target/webui /var/www/ccu-jack/
 target/ccu-jack.cfg /etc/
+dist/ccu-jack.service /usr/lib/systemd/system/

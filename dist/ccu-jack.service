@@ -1,0 +1,8 @@
+[Unit]
+Description=CCU-Jack
+
+[Service]
+ExecStart=/usr/bin/ccu-jack --config /etc/ccu-jack.cfg
+
+[Install]
+WantedBy=multi-user.target
