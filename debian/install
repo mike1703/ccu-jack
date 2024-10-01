@@ -1,0 +1,3 @@
+target/ccu-jack /usr/bin/
+target/webui /var/www/ccu-jack/
+target/ccu-jack.cfg /etc/
